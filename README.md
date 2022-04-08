@@ -1,6 +1,6 @@
-# Landing Page Responsive, HTML, CSS e JavaScript
+# Responsive Landing Page, HTML, CSS e JavaScript
 
-### Responsive Portfolio Website Alexa
+### Responsive Landing Page
 
 Responsive Landing Page Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Portfolio, Contact and Footer.
 
